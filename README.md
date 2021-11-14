@@ -1,5 +1,3 @@
-<h1 align="right">Yusuf Berki YAZICIOĞLU</h1>
-<h3 align="right">Computer Vision Engineer / Data Scientist</h3>
 <h3 align="left">SKILLS</h3>
 <table style="width:100%">
   <tbody>
