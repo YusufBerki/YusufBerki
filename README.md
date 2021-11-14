@@ -1,4 +1,4 @@
-<h3 align="left">SKILLS</h3>
+<h2 align="left">SKILLS</h3>
 <table style="width:100%">
   <tbody>
     <tr>
@@ -81,7 +81,7 @@
     </tr>
   </tbody>
 </table>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">CONTACT</h3>
 <p align="left">
   <a href="https://linkedin.com/in/yusufberki" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufberki" height="30" width="40" />
