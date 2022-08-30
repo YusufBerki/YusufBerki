@@ -15,6 +15,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
+          # Config
+          config_display: large
+          
           # Isometric Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
